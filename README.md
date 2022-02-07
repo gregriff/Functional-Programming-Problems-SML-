@@ -6,9 +6,9 @@ The reason that I am including these files on my GitHub is to demonstrate my abi
 
 ##### To run:
 
--install smlnj
+- install '''smlnj'''
 
--Add the path (macOS): export PATH="/usr/local/smlnj/bin/:${PATH}"
+- Add the path (macOS): '''export PATH="/usr/local/smlnj/bin/:${PATH}"'''
 
--in terminal type: sml SML_Tester.sml
+- in terminal type: '''sml SML_Tester.sml'''
 
