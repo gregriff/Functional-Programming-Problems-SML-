@@ -10,5 +10,5 @@ The reason that I am including these files on my GitHub is to demonstrate my abi
 
 - Add the path (macOS): `export PATH="/usr/local/smlnj/bin/:${PATH}"`
 
-- in terminal type: `sml SML_Tester.sml`
+- in terminal navigate to the files and type: `sml SML_Tester.sml`
 
